@@ -1,0 +1,1 @@
+This project aims to predict customer churn (whether a customer will leave the bank) using a neural network model. The dataset includes customer demographic and banking behavior data, and various machine learning techniques are applied to preprocess the data, visualize it, and train a neural network to predict churn.
